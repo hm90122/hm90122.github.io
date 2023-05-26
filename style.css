@@ -5,6 +5,15 @@ span {
 h2 {
   color: chartreuse;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-size: 3rem;
+}
 
   #second_h2 {
     color: #fa541c
