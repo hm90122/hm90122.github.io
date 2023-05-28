@@ -32,9 +32,9 @@
   /* 内间距 */
   padding: 5px 10px;
   /* 字体颜色 */
-  color: #fff;
+  color: #391358;
   /* 背景颜色 */
-  background-color: #13c2c2;
+  background-color: #e7da86;
   /* 圆角处理 */
   border-radius: 5px;
   /* 鼠标手样式 */
@@ -55,7 +55,7 @@ header img.headphoto {
   margin: 0;
   padding: 0;
   width: 50px;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 section.mySection {
@@ -124,5 +124,5 @@ audio {
   top: 0;
   bottom: 0;
   width: 100%;
-  background: linear-gradient(to right bottom, white, #b5f5ec 100%);
+  background: linear-gradient(to right bottom, white, #439ee3 100%);
 }
